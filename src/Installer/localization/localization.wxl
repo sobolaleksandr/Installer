@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WixLocalization  Culture="en-US" xmlns="http://schemas.microsoft.com/wix/2006/localization">
+  <String Id="WixUINext" Overridable="yes">Далее</String>
+  <String Id="WixUIBack" Overridable="yes">Назад</String>
+  <String Id="WixUICancel" Overridable="yes">Отмена</String>
+  <String Id="WixUIFinish" Overridable="yes">Завершить</String>
+  <String Id="WixUIDelete" Overridable="yes">Удалить</String>
+  <String Id="WelcomeDlg_Title" Overridable="yes">Установка - [ProductName]</String>
+  <String Id="WelcomeDlgTitle" Overridable="yes">Вас приветствует программа установки [ProductName]</String>
+  <String Id="WelcomeDlgDescription" Overridable="yes">Нажмите "Далее" для продолжения или "Отмена" для выхода из программы установки.</String>
+  <String Id="CustomizeDlg_Title" Overridable="yes">Установка - [ProductName]</String>
+  <String Id="CustomizeDlgTitle" Overridable="yes">Выбор компонентов</String>
+  <String Id="CustomizeDlgDescription" Overridable="yes">Какие компоненты должны быть установлены?</String>
+  <String Id="CustomizeDlgText" Overridable="yes">Выберите компоненты, которые вы хотите устанвить; снимите флажки с компонентов, 
+устанавливать которые не требуется. 
+Нажмите "Далее", когда вы будете готовы продолжить.</String>
+  <String Id="DglDirDlgTitle" Overridable="yes">Настройка диспетчера групповых лицензий</String>
+  <String Id="DglDirDlgDescription" Overridable="yes">Укажите адрес сервера, на котором установлен диспетчер групповых лицензий и нажмите Далее.</String>
+  <String Id="DglDirDlgText" Overridable="yes">Адрес сервера ДГЛ:</String>
+  
+  <String Id="InstallDirDlgChange" Overridable="yes">Обзор...</String>
+  <String Id="InstallDirDlg_Title" Overridable="yes">Установка - [ProductName]</String>
+  <String Id="InstallDirDlgTitle" Overridable="yes">Выбор папки установки</String>
+  <String Id="InstallDirDlgDescription" Overridable="yes">Выберите папку для установки [ProductName]</String>
+  <String Id="InstallDirDlgFolderLabel" Overridable="yes">Нажмите "Далее", для продолжения установки. Если Вы хотите выбрать другую папку,
+нажмите "Обзор".</String>
+  <String Id="ProgressDlg_Title" Overridable="yes">Установка - [ProductName]</String>
+  <String Id="ProgressDlgTitleInstalling" Overridable="yes">Установка...</String>
+  <String Id="ProgressDlgTextInstalling" Overridable="yes">Пожалуйста, подождите, пока [ProductName] установится на ваш компьютер.</String>
+  <String Id="ExitDialog_Title" Overridable="yes">Установка - [ProductName]</String>
+  <String Id="ExitDialogTitle" Overridable="yes">Завершение Мастера установки [ProductName]</String>
+  <String Id="ExitDialogDescription" Overridable="yes">Программа [ProductName] установлена на ваш компьютер. Нажмите "Завершить", чтобы выйти из программы установки. </String>
+  <String Id="UninstallDlg_Title" Overridable="yes">Удаление - [ProductName]</String>
+  <String Id="UninstallDlgTitle" Overridable="yes">Удаление - [ProductName]</String>
+  <String Id="UninstallDlgDescription" Overridable="yes">Удалить предыдущую версию [ProductName]?</String>
+  <String Id="UserExitTitle" Overridable="yes">Отмена Мастера установки [ProductName]</String>
+  <String Id="UserExitDescription" Overridable="yes">Произошла ошибка при установке программы [ProductName]. Программа не установлена.</String>
+</WixLocalization>

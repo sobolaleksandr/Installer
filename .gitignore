@@ -1,0 +1,23 @@
+*.user
+*.suo
+.vs
+bin
+obj
+packages
+*.htm
+*.html
+.sonarqube
+MigrationBackup
+launchSettings.json
+
+# установочные файлы
+Data/Setup/SetupOutput/**
+Data/Setup/SetupProjects/*.log
+Data/Setup/SetupProjects/*x64.msifact
+
+# публикация службы
+Data/Publishing CgisGdbAdapter
+CgisGdbAdapter/Service/log
+CgisGdbAdapter/Service/client logs
+.idea/
+Data/Publishing/
